@@ -6,4 +6,6 @@
 
 #### [GO TO SCHOOL](school.md)
 
+### _OR_
+
 #### [STAY AT HOME](stayhome.md)

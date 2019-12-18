@@ -1,4 +1,4 @@
-## You have chosen to go to school early
+## You have chosen to go to school early.
 ![earlyclassroom](https://cdn.cnn.com/cnnnext/dam/assets/120504054119-empty-classroom-high-school-horizontal-large-gallery.jpg)
 # 7 hours later....
 

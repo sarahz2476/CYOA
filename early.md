@@ -4,7 +4,7 @@
 
 ## It is now 3:00 P.M. School ends.
 ![schoolend3](https://media.makeameme.org/created/finally-the-end-s8ufxz.jpg)
-## Do you chose to go directly home or outside to hangout?
+## Do you choose to go directly home or outside to hangout?
 
 #### [DIRECTLY HOME](directlyhome.md)
 

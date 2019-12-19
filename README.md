@@ -2,6 +2,7 @@
 
 Click [_here_](home.md) to begin.
 
-###### Click [_here_](Sarah Zhang - Untitled drawing.jpg) to view my graphic organizer.
+###### This is my graphic organizer.
+![organizer](organizer.png)
 
 ###### Click [_here_](https://github.com/sarahz2476/) to view my profile.

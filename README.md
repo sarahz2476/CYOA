@@ -2,3 +2,4 @@
 
 Click [_here_](home.md) to begin.
 
+###### Click [_here_] to view my graphic organizer.

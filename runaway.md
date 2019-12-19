@@ -6,4 +6,4 @@
 
 # THE END, YOU DIE!
 
-##### Click [_here_] to restart.
+##### Click [_here_](README.md) to restart.

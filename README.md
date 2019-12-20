@@ -3,7 +3,7 @@
 Click [_here_](home.md) to begin.
 
 ###### This is my graphic organizer.
-![graphic organizer](goragnizer/organizer.png)
+![gorganizer](goragnizer/organizer.png)
 
 
 ###### Click [_here_](https://github.com/sarahz2476/) to view my profile.

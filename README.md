@@ -4,6 +4,6 @@ Click [_here_](home.md) to begin.
 
 ###### This is my graphic organizer.
 ![graphic organizer](organizer.png)
-![organizer](organizer.png)
+
 
 ###### Click [_here_](https://github.com/sarahz2476/) to view my profile.
